@@ -1,13 +1,29 @@
-"color_scheme": "Packages/Base16/Themes/base16-gruvbox-dark-soft.tmTheme",
-"ensure_newline_at_eof_on_save": true,
-"highlight_line": true,
-"line_padding_bottom": 1,
-"line_padding_top": 1,
-"show_definitions": false,
-"show_encoding": true,
-"show_line_endings": true,
-"tab_size": 2,
-"translate_tabs_to_spaces": true,
-"trim_trailing_white_space_on_save": true,
-"show_full_path": true,
-"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules", "tmp"]
+{
+	"color_scheme": "Packages/Base16/Themes/base16-gruvbox-dark-soft.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"tmp"
+	],
+	"font_face": "Fira Code Retina",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"show_definitions": false,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
