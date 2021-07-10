@@ -10,4 +10,5 @@
 "translate_tabs_to_spaces": true,
 "trim_trailing_white_space_on_save": true,
 "font_face": "JetBrains Mono NL",
-"inactive_sheet_dimming": false
+"inactive_sheet_dimming": false,
+"font_size": 13
